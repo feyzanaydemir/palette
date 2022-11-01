@@ -1,6 +1,11 @@
 # Palette
 
-<div style="display:flex;align-items:center;align-content:center;flex-direction:column;gap:10px;"><img src="example.jpg" alt="example-image" width="150" style="display:flex;align-self:center;"/><img src="example-palette.png" alt="example-palette" height="25" style="display:block;"/></div>
+<p align="center">
+<img src="example.jpg" alt="example-image" width="180" style="display:flex;align-self:center;"/>
+</p>
+<p align="center">
+<img src="example-palette.png" alt="example-palette" height="25" style="display:block;"/>
+</p>
 
 ## Overview
 
